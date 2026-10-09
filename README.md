@@ -1,4 +1,4 @@
-# Flower Framework AK
+# Allegro P/SDLC Framework
 
 An independent v2 copy of [The Flower Framework prototype](https://statics.akubra.qxlint/6eb1ebad-4b4b-4c23-bb22-1db0060166f7/index.html#flower), prepared for further editing. The original prototype credits Frontend Platform.
 
